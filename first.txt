@@ -3,3 +3,4 @@ git確認
 ・git commit
 ・git rm
 ・git status
+・git diff
