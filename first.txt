@@ -1,1 +1,3 @@
 git確認
+・git add
+・git commit
